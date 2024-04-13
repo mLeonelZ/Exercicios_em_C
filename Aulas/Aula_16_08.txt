@@ -1,0 +1,30 @@
+Entrada de Dados
+
+função scanf() - entrada de um inteiro
+
+scanf("formato", &nomedavariavel)
+
+ex
+
+int idade,
+
+scanf("%d", &idade)
+
+LEITURA FLOAT
+
+float preco;
+
+scanf("%f", &preco);
+
+LEITURA CARACTERE
+
+char letra;
+
+scanf("%c", &letra);
+
+LEITURA DOUBLE
+
+double pi; (aumenta o numero de numeros depois da virgula || NA ENTRADA DE DADOS DEVE SER USADO VIRGULA E NÃO PONTO ||
+
+scanf("%lf", &pi)
+
